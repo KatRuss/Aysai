@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j1wnCWZLXtZOKgm+DYi3GYl+iOoq/0FFVlI0sOdjeCzIlL7nHBXZFMBXPVCMecaHBZjyWNvpMsQmGnMGYXFrwA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Chess Engine\\harpoon_chess\\harpoon_chess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Azure\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\Azure\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
